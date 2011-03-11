@@ -207,6 +207,12 @@ projects[dynamo][download][type] = "git"
 projects[dynamo][download][url] = "https://github.com/dingproject/dynamo.git"
 projects[dynamo][download][revision] = "v2.1.5"
 
+; Hedensted theme
+
+projects[hedensted][type] = "theme"
+projects[hedensted][download][type] = "git"
+projects[hedensted][download][url] = "https://github.com/hedenstedbib/hedensted.git" 
+
 ; Ding modules
 
 projects[alma][type] = "module"
